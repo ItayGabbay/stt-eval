@@ -1,0 +1,16 @@
+vyper-config
+openapi-codec
+azure-cognitiveservices-speech
+pandas
+azure-storage-blob
+datasets
+transformers
+torch
+torchaudio
+speechbrain
+soundfile
+tqdm
+evaluate
+lang_trans
+jiwer
+flashlight-text

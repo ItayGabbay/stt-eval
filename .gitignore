@@ -1,0 +1,17 @@
+/labeleddata
+/outputs
+/eval_results
+/dataset
+/__pycache__
+
+analysis/
+
+/data
+
+
+# Python Tools for Visual Studio (PTVS)
+__pycache__/
+*.pyc
+
+.env
+.vscode/
